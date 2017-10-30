@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AdventureRiddle</string>
+    <string name="message">First Letter is P</string>
+    <string name="confirm">continue</string>
+    <!--adventure save state = save1, riddle number = save2-->
+    <string name="Save3"></string>
+    <string name="hintSave">15</string>
+    <string name="progressSave">100</string>
+    <string name="adventureNum">1</string>
+    <string name="riddleNum">0</string>
+    <string name="watchVideo">Watching A Video</string>
+    <string name="wait">Waiting</string>
+    <string name="admob_app_id">ca-app-pub-8483633170851749~5426101944</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
+

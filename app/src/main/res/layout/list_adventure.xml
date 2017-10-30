@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/adventure_list">
+
+    <TextView
+        android:id="@+id/adventure_name_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Adventure One"
+        android:textStyle="bold"
+
+        android:textSize="32sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:orientation="horizontal"
+        android:id="@+id/adventure_list_one">
+
+        <!--<Button-->
+            <!--android:id="@+id/adventure_button_one"-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="1" />-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="2" />-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="3" />-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="4" />-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="5" />-->
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:orientation="horizontal"
+        android:id="@+id/adventure_list_two">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:orientation="horizontal"
+        android:id="@+id/adventure_list_three">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:orientation="horizontal"
+        android:id="@+id/adventure_list_four">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:orientation="horizontal"
+        android:id="@+id/adventure_list_five">
+
+    </LinearLayout>
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:padding="8dp">-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="6" />-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="7" />-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="8" />-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="9" />-->
+
+        <!--<Button-->
+            <!--style="@style/ButtonStyle"-->
+            <!--android:text="10" />-->
+    <!--</LinearLayout>-->
+
+
+</LinearLayout>
